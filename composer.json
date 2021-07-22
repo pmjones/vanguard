@@ -1,0 +1,7 @@
+{
+    "name": "vanguard/project",
+    "description": "The Vanguard project.",
+    "type": "project",
+    "license": "proprietary",
+    "require": {}
+}
